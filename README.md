@@ -49,6 +49,7 @@
 <img src="https://img.shields.io/badge/Gemini-111827?style=for-the-badge&logo=googlegemini&logoColor=8AB4F8" />
 
 </div>
+
 ---
 
 ## Sedang Gue Kerjain
@@ -87,7 +88,7 @@
 
 ## Tujuan Gue
 
-- Belajar hal yang sekiranya berguna di masa sekarang
+- Belajar hal yang sekiranya berguna di masa sekarang maupun di masa depan nanti
 - Mempertahankan IPK saat ini
 - Ngerjain project yang pada akhirnya beneran jadi (tidak mangkrak)
 - Naikin skill pelan-pelan tapi pasti
