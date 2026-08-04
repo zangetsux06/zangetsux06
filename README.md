@@ -85,7 +85,7 @@ Goal Utama  : Menjadi Software Engineer / Full-Stack Developer yang Handal 🚀
 
 | Project | Category | Tech Stack | Status / Link |
 |---|---|---|---|
-| 🌐 **Personal Editorial Portfolio** | Web App | React 19, Vite, Framer Motion, Custom CSS | [Repo ↗](https://github.com/zangetsux06/Portofolio_Website) |
+| 🌐 **Personal Editorial Portfolio** | Web App | React 19, Vite, Framer Motion, Custom CSS | [Live Demo ↗](https://zael-dev.vercel.app/) |
 | 🔍 **UMKT Finder** | Community Platform | Django, Tailwind CSS, Supabase | [Live Demo ↗](https://umkt-finder.vercel.app/) |
 | 🌿 **Detektif Kebun** | Educational Game | Next.js, React, Tailwind CSS | [Live Demo ↗](https://detektif-kebun.vercel.app/) |
 | 🛒 **Born Reaper Store** | E-Commerce Game Store | React, TypeScript, Tailwind CSS | [Live Demo ↗](https://born-reaper-store-game.vercel.app/) |
