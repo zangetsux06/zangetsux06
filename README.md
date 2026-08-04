@@ -1,12 +1,11 @@
 <div align="center">
 
 # Hi there, gue Andi Reza! 👋
-### *Software Engineering Student • Web & Full-Stack Developer • Blockchain Enthusiast*
+### *Software Engineering Student • Web & Full-Stack Developer • Tech Enthusiast*
 
 <br/>
 
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=550&lines=Mahasiswa+
-  Teknik+Informatika+UMKT;Web+%26+Full-Stack+Developer;AI+%26+Automation+Enthusiast;Building+Real-World+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=550&lines=Mahasiswa+Teknik+Informatika+UMKT;Web+%26+Full-Stack+Developer;AI+%26+Automation+Enthusiast;Building+Real-World+Projects" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://github.com/zangetsux06">
@@ -29,6 +28,7 @@ Kampus      : Universitas Muhammadiyah Kalimantan Timur (UMKT)
 Prodi       : Teknik Informatika / Software Engineering
 Lokasi      : Samarinda, Kalimantan Timur, Indonesia 🇮🇩
 Fokus       : Developing Real-World Web Apps, AI Integration & Continuous Learning
+Goal Utama  : Menjadi Software Engineer / Full-Stack Developer yang Handal 🚀
 ```
 
 > "Belajar hal bermanfaat pelan-pelan tapi pasti, mempertahankan kualitas akademik, dan membangun karya nyata yang bermanfaat."
@@ -108,13 +108,11 @@ Fokus       : Developing Real-World Web Apps, AI Integration & Continuous Learni
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zangetsux06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zangetsux06&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=zangetsux06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   <br/><br/>
 
-  <img height="165em" src="https://streak-stats.demolab.com?user=zangetsux06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://ghchart.rshah.org/00C2FF/zangetsux06" alt="zangetsux06's GitHub Commit Chart" />
 
 </div>
 
@@ -125,7 +123,7 @@ Fokus       : Developing Real-World Web Apps, AI Integration & Continuous Learni
 - [x] Meraih prestasi lomba IoT & Kompetisi Software Engineering
 - [x] Membangun Web Portfolio berbasis React & Modern Design System
 - [/] Mendalami React, Next.js, TypeScript & Modern Backend (Django/Supabase)
-- [ ] Belajar Smart Contract, Solidity, dan Arsitektur Blockchain
+- [ ] Mempelajari Software Architecture, Cloud Infrastructure & System Design
 - [ ] Mempertahankan IPK tinggi & memperbanyak portofolio riil
 - [ ] Berkontribusi ke proyek Open Source & Komunitas Tech
 
