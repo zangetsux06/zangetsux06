@@ -37,7 +37,7 @@ Goal Utama  : Menjadi Software Engineer / Full-Stack Developer yang Handal 🚀
 
 ### 💻 Tech Stack & Tools
 
-<details open>
+<!-- <details open>
 <summary><strong>🎨 Frontend & Mobile Development</strong></summary>
 <br/>
 <p>
@@ -51,7 +51,7 @@ Goal Utama  : Menjadi Software Engineer / Full-Stack Developer yang Handal 🚀
   <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" />
 </p>
-</details>
+</details> -->
 
 <details open>
 <summary><strong>⚙️ Backend, Database & Cloud</strong></summary>
