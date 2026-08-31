@@ -67,14 +67,12 @@ Goal Utama  : Menjadi Software Engineer / Full-Stack Developer yang Handal 🚀
 </details>
 
 <details open>
-<summary><strong>🤖 AI Tools, Workflow & Environment</strong></summary>
+<summary><strong>Tools,Workflow & Environment</strong></summary>
 <br/>
 <p>
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/Claude_AI-111827?style=for-the-badge&logo=claude&logoColor=D97706" />
-  <img src="https://img.shields.io/badge/Gemini_AI-111827?style=for-the-badge&logo=googlegemini&logoColor=8AB4F8" />
   <img src="https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF" />
 </p>
 </details>
